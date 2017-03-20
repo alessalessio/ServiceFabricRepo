@@ -28,6 +28,7 @@ namespace WebCoreStateless4
         /// <returns>The collection of listeners.</returns>
         protected override IEnumerable<ServiceInstanceListener> CreateServiceInstanceListeners()
         {
+            //sidufhisdfhdih
             return new ServiceInstanceListener[]
             {
                 new ServiceInstanceListener(serviceContext =>
